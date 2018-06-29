@@ -1,5 +1,5 @@
 # Integral Gene Drive Models
-**The paper can currently be found on biorXiv [here](https://www.biorxiv.org/content/early/2018/06/27/356998).**
+**The paper can currently be found on biorXiv [here](https://www.biorxiv.org/content/early/2018/06/28/356998).**
 <br/><br/> 
 Model scripts are divided by figure, retaining the numbering system used in the manuscript (above).
 <br/>
